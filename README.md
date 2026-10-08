@@ -77,19 +77,5 @@ chmod +x build_scripts/build_linux.sh
 
 ---
 
-## 📝 Первый пуш на GitHub
-Чтобы отправить этот проект в свой новый репозиторий на GitHub:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Universal Music Saver with smart sync"
-git branch -M main
-git remote add origin https://github.com/<ВАШ_НИК_НА_GITHUB>/<ИМЯ_РЕПОЗИТОРИЯ>.git
-git push -u origin main
-```
-
----
-
 ## 📄 Лицензия
 Проект распространяется под открытой лицензией [MIT](LICENSE).
